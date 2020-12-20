@@ -9,7 +9,7 @@ This project is implemented in python 3.7 and tensorflow 1.x. Follow these steps
 Create a new environment where Tensorflow and related dependencies are installed.
 	```bash
 	conda create --name tf-env
-  ```
+  	```
 
 3. Activate the new *tf-env* environment.
 
